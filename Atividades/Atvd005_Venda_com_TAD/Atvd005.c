@@ -26,4 +26,6 @@ int main(){
 
     resultados(op2, desc, compra, opcao, novo, nome);
 
+    return 0;
+
 }
